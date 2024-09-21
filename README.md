@@ -8,4 +8,4 @@
 ## How to Run
 1. Go to RNA seq analysis Pipeline located in this repository
 2. Copy the code from the Respository.
-3. Paste into RStudio and run it.
+3. Paste into RStudio and run it. 
