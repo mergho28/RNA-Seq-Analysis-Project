@@ -9,4 +9,5 @@
 1. Go to RNA seq analysis Pipeline located in this repository
 2. Copy the code from the Respository.
 3. Paste into RStudio and run it. 
+
 Note: Dataset size ranges from 2,000-5,000 cells, and 10,000-20,000 genes are the most optimal for this program
