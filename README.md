@@ -6,5 +6,6 @@
 - `data/`: Folder containing input data files.
 
 ## How to Run
-1. Clone or download this repository.
-2. Open `pipeline.R` in RStudio and run it.
+1. Go to RNA seq analysis Pipeline located in this repository
+2. Copy the code from the Respository.
+3. Paste into RStudio and run it.
